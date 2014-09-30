@@ -4,7 +4,7 @@
 }
 
 #logo {
-	background: url(https://www.googledrive.com/host/0B5gPzqRs9VWzMzE4OUpxWmFsczQ/spritely_logo.png) 0 0 no-repeat;
+	background: url("https://www.googledrive.com/host/0B5gPzqRs9VWzMzE4OUpxWmFsczQ/spritely_logo.png") 0 0 no-repeat;
 	width: 550px;
 	height: 400px;
 	position: absolute;
